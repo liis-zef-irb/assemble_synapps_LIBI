@@ -55,7 +55,7 @@ if ($releasefile eq "default")
 	# $modules{'AREA_DETECTOR_SUBMODULES'} = ''; # Space-separated list of extra submodules to check out
 	$modules{'ASYN'} = 'R4-44-2';
 	$modules{'AUTOSAVE'} = 'R5-11';
-    $modules{'BUSY'} = 'R1-1-7-4';
+    $modules{'BUSY'} = 'R1-7-4';
 	$modules{'CALC'} = 'R3-7-5';
 	# $modules{'CAMAC'} = 'R2-7-5';
 	# $modules{'CAPUTRECORDER'} = 'R1-7-6';
